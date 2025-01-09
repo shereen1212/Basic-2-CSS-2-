@@ -1,0 +1,59 @@
+.example {
+  text-align: center;
+}
+.b1 {
+  border: solid black;
+  height: 100px;
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+}
+.b2 {
+  border: dashed red;
+  height: 100px;
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+}
+.b3 {
+  border: dotted blue;
+  height: 100px;
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+}
+.b4 {
+  border: double purple;
+  height: 100px;
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+}
+.b5 {
+  border: groove fuchsia;
+  height: 100px;
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+}
+.b6 {
+  border: ridge greenyellow;
+  height: 100px;
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+}
+.b7 {
+  border: inset yellow;
+  height: 100px;
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+}
+.b8 {
+  border: outset brown;
+  height: 100px;
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+}

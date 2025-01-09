@@ -1,0 +1,29 @@
+.absolute {
+  border: solid;
+  height: 200px;
+  width: 200px;
+}
+.s1 {
+  position: relative;
+  background-color: red;
+  top: 0px;
+  left: 0px;
+}
+.s2 {
+  position: absolute;
+  background-color: blue;
+  top: 0px;
+  right: 0px;
+}
+.s3 {
+  position: absolute;
+  background-color: green;
+  bottom: 0px;
+  left: 0px;
+}
+.s4 {
+  position: absolute;
+  background-color: yellow;
+  bottom: 0px;
+  right: 0px;
+}

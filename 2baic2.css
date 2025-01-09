@@ -1,0 +1,21 @@
+.over {
+  text-align: center;
+}
+.o {
+  border: solid black;
+  height: px;
+  width: 200px;
+  margin: 0 auto;
+}
+.o1 {
+  overflow: visible;
+}
+.o2 {
+  overflow: hidden;
+}
+.o3 {
+  overflow: scroll;
+}
+.o4 {
+  overflow: auto;
+}

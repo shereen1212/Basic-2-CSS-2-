@@ -1,0 +1,9 @@
+.mp {
+  border: solid blue;
+}
+.pmb {
+  border: dashed red;
+  background-color: bisque;
+  padding: 30px;
+  margin: 100px;
+}

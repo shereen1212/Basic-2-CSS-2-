@@ -1,0 +1,7 @@
+.different {
+  background-color: aqua;
+  border-left: solid red;
+  border-bottom: dashed blue;
+  width: 300px;
+  height: 100px;
+}

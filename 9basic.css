@@ -1,0 +1,28 @@
+.position {
+  border: solid;
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+}
+.a1 {
+  background-color: blue;
+  position: relative;
+}
+.a2 {
+  background-color: red;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+.a3 {
+  background-color: yellow;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+.a4 {
+  background-color: green;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}

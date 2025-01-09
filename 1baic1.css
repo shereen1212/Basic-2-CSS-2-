@@ -1,0 +1,83 @@
+.Box{
+
+    
+    
+    
+    
+    border: 1px;
+    
+
+    
+    width: 100px;
+    
+    
+    
+    
+    
+    height: 100px;
+    
+    background-color: rgb(142, 88, 17);
+    
+    
+    
+    margin:auto;
+    
+    
+    
+    margin-top: 30px;
+    
+
+    
+    text-align: center;
+    
+    
+    
+    }
+    
+
+    
+    .Box.Box1{
+    
+    
+    opacity:1;
+    
+
+    
+    }
+    
+
+    
+    .Box2{
+    
+    
+    
+    opacity:0.75;
+    
+
+    
+    }
+    
+
+    
+    .Box3{
+    
+
+    
+    opacity:0.5;
+    
+    
+    
+    }
+    
+
+    
+    .Box4{
+    
+    
+    
+    opacity:0.25;
+    
+    
+    
+    }
+    
